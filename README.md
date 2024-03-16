@@ -1,2 +1,2 @@
-<a href="https://turkviktor.com" target="_blank">turkviktor.com</a>
-<a href="https://music.apple.com/profile/turkviktor" target="_blank">music.apple.com/profile/turkviktor</a>
+<a  href="https://turkviktor.com">```<a  href="https://turkviktor.com">turkviktor.com</a>```</a>
+<a  href="https://music.apple.com/profile/turkviktor">```<a  href="https://music.apple.com/profile/turkviktor">music.apple.com/profile/turkviktor</a>```</a>
